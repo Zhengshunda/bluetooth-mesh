@@ -29,7 +29,6 @@ extern uint8_t raw_data[3072];
 int debugbuf(uint8_t* buf,int size);
 int packetcount = 0 ;//已经传输的数据包的量
 static uint16_t packetnumber = 0;//需要传输的数据包的量
-#define aa aa
 
 #define PAYLOAD_SIZE 28 //每个数据包真正载着的data size
 #define THE_PT_ID	0X03
