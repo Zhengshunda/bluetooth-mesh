@@ -1,0 +1,3 @@
+repository='external project URL'
+module='D:/bluemesh/tflite/tflite-v2/mesh/tutorial_-responding-to-your-voice-v42.zip'
+tag=''
