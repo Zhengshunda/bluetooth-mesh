@@ -1,0 +1,8 @@
+{
+    "nrf-connect.applications": [
+        "${workspaceFolder}",
+        "d:\\bluemesh\\mesh-prototype"
+    ],
+    "nrf-connect.toolchain.path": "${nrf-connect.toolchain:2.1.2}",
+    "nrf-connect.topdir": "${nrf-connect.sdk:2.1.2}"
+}
